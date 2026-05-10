@@ -7619,6 +7619,7 @@ export {
     exportCodebookCSV,
     exportCSV,
     exportMarkdown,
+    handleChatKeyPress,
     importCodebookCSV,
     importSelectedQuotes,
     loadBoard,
